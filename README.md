@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Em transição de carreira para a área de tecnologia.
 - 🎓 &nbsp; Estudando **Ciência de Dados** na <a href="https://estacio.br/">Estácio</a>.
-- 💼 &nbsp; Participando da 3ª Edição do projeto Luiza \<Code\> em **Node.js**.
+- 💼 &nbsp; Participei da 3ª Edição do projeto Luiza \<Code\> em **Node.js**.
 - 🌱 &nbsp; Aprendendo mais sobre **Programação**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
